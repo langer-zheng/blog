@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
-author: John Doe
+title: 学术情报
+subtitle: blog.ss.ci
+description: 收集重要的学术情报，以便学者查阅洞悉
+author: zhengliang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://blog.ss.ci
 baseurl:
 permalink: pretty
 
@@ -79,7 +79,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "ssci, 学术情报"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
